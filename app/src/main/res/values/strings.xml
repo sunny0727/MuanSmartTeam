@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">무안스마트팀뷰어</string>
+    <string name="app_api">https://www.muan.go.kr/smartapp/</string>
+</resources>
